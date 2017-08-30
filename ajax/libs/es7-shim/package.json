@@ -13,7 +13,7 @@
 	"license": "MIT",
 	"main": "index.js",
 	"browser": "browser.js",
-  "filename": "es7-shim.min.js"
+	"filename": "es7-shim.min.js",
 	"repository": {
 		"type": "git",
 		"url": "http://github.com/es-shims/es7-shim.git"
